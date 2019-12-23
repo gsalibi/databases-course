@@ -1,0 +1,11 @@
+use GetLove;
+insert into Moderador values ('0', 'Donnell');
+insert into Moderador values ('1', 'Nathaniel');
+insert into Moderador values ('2', 'Deante');
+insert into Moderador values ('3', 'Muhammad');
+insert into Moderador values ('4', 'Sydney');
+insert into Moderador values ('5', 'Suzanna');
+insert into Moderador values ('6', 'Norma');
+insert into Moderador values ('7', 'Grace');
+insert into Moderador values ('8', 'Corinna');
+insert into Moderador values ('9', 'Judy');

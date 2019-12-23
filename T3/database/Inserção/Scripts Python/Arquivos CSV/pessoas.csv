@@ -1,0 +1,1002 @@
+id_pessoa,cpf,email,nome,data_nascimento,sexo,cidade,uf,numero_filhos,tabaco,alcool,outras_drogas,religiao,tipo_de_personalidade,latitude,longitude
+
+0,47139957952,john@gmail.com,John,8/5/1942,M,Santo Andre,SP,2,0,0,1,0,13,34.1095,50.8548
+
+1,49337267118,vern@yahoo.com,Vern,2/2/1980,M,Ribeirao Preto,SP,4,1,1,1,4,13,35.6643,46.8264
+
+2,48860521712,theron@gmail.com,Theron,22/11/1976,M,Vitoria,ES,0,1,0,0,3,5,23.6961,41.1338
+
+3,43680942815,joel@gmail.com,Joel,13/12/1998,M,Duque de Caxias,RJ,4,1,1,0,8,13,38.4862,52.3547
+
+4,46763940549,angus@yahoo.com,Angus,18/2/1974,M,Governador Valadares,MG,5,0,1,0,3,9,35.4844,33.5027
+
+5,44040589206,wood@outlook.com,Wood,18/12/1936,M,Serra,ES,4,1,1,1,10,12,28.8125,58.1263
+
+6,49503885222,lawson@outlook.com,Lawson,26/12/1989,M,Cariacica,ES,5,0,1,1,9,7,24.1174,33.1548
+
+7,44213741818,hezekiah@yahoo.com,Hezekiah,26/8/1988,M,Cariacica,ES,2,1,1,1,5,10,13.3151,40.5206
+
+8,47518882677,asa@yahoo.com,Asa,24/10/1968,M,Vila Velha,ES,0,1,0,1,3,14,11.5182,43.9272
+
+9,47755059441,tommy@yahoo.com,Tommy,27/12/1965,M,Itajai,SC,0,1,1,0,7,9,39.9495,31.8663
+
+10,43598683098,mace@outlook.com,Mace,27/4/1965,M,Petropolis,RJ,0,0,1,0,0,0,39.2766,43.1576
+
+11,49049355265,herschel@gmail.com,Herschel,4/3/1993,M,Sao Goncalo,RJ,3,0,0,1,1,15,12.0858,51.7102
+
+12,46960676088,stewart@gmail.com,Stewart,21/6/1933,M,Sao Mateus,ES,3,0,1,1,8,10,12.562,32.7653
+
+13,43221448306,ignatius@yahoo.com,Ignatius,5/2/1966,M,Contagem,MG,2,0,0,1,6,3,21.0004,56.8547
+
+14,46413720261,arnold@gmail.com,Arnold,26/1/1973,M,Volta Redonda,RJ,3,1,0,1,0,8,35.6522,34.4237
+
+15,45737312812,duncan@outlook.com,Duncan,22/5/1960,M,Vila Velha,ES,4,0,0,1,3,4,15.2245,45.3676
+
+16,49459227124,pinkney@yahoo.com,Pinkney,22/12/1964,M,Itajai,SC,3,1,0,1,7,11,14.7195,54.7311
+
+17,41396959009,lou@aol.com,Lou,3/6/1979,M,Ribeirao das Neves,MG,5,1,1,0,5,8,39.8394,53.2294
+
+18,43179837424,brooks@aol.com,Brooks,22/2/1985,M,Niteroi,RJ,0,0,1,1,7,6,32.8372,54.8638
+
+19,48296443824,boss@gmail.com,Boss,27/5/1930,M,Maua,SP,4,1,0,1,9,9,37.7233,55.9571
+
+20,45819830831,eric@yahoo.com,Eric,27/10/1990,M,Jaragua do Sul,SC,0,1,0,1,2,3,18.0683,40.2842
+
+21,44296464572,colonel@yahoo.com,Colonel,13/7/1966,M,Osasco,SP,4,1,1,1,10,15,34.0763,55.5427
+
+22,40386858621,rudolph@outlook.com,Rudolph,19/10/1932,M,Aracruz,ES,4,1,0,0,10,15,38.774,31.5519
+
+23,40139528942,billie@outlook.com,Billie,22/1/1935,M,Santo Andre,SP,2,0,0,0,0,13,32.5062,59.7726
+
+24,45125002296,callie@yahoo.com,Callie,2/9/1933,M,Duque de Caxias,RJ,4,1,1,0,5,5,26.6826,49.3688
+
+25,40588518273,clair@gmail.com,Clair,19/9/1950,M,Campos dos Goytacazes,RJ,3,1,0,1,3,9,11.8891,59.1739
+
+26,44189423651,max@aol.com,Max,21/2/1958,M,Betim,MG,3,1,1,1,8,5,13.4345,39.4919
+
+27,42163479799,jones@outlook.com,Jones,20/12/1982,M,Niteroi,RJ,2,0,0,1,10,4,19.6735,44.6914
+
+28,49361823883,adron@yahoo.com,Adron,17/8/1976,M,Maua,SP,2,1,0,0,8,5,29.5524,34.8088
+
+29,40079246549,loren@aol.com,Loren,13/4/1967,M,Cariacica,ES,4,0,1,0,7,14,26.2086,59.9402
+
+30,41848938358,adelbert@outlook.com,Adelbert,15/8/1969,M,Lages,SC,0,0,0,0,0,1,35.0622,59.7877
+
+31,44337382575,mack@outlook.com,Mack,23/3/1934,M,Colatina,ES,2,0,1,0,2,13,28.5364,51.7455
+
+32,44060609865,maxwell@aol.com,Maxwell,26/10/1989,M,Cachoeiro de Itapemirim,ES,5,1,1,1,9,2,20.5942,49.3309
+
+33,46560415553,ernie@gmail.com,Ernie,18/9/1944,M,Guarulhos,SP,5,1,0,1,9,5,27.8252,54.4355
+
+34,40266921604,fletcher@yahoo.com,Fletcher,26/2/1953,M,Volta Redonda,RJ,2,0,0,1,0,2,33.7068,44.4393
+
+35,46256008255,gladys@aol.com,Gladys,27/1/1999,M,Maua,SP,0,0,1,0,5,2,21.5213,51.6292
+
+36,42558747791,manuel@gmail.com,Manuel,9/3/1949,M,Vila Velha,ES,2,0,1,0,1,5,30.0097,48.5699
+
+37,47434945161,jewell@gmail.com,Jewell,30/8/1972,M,Sao Joao de Meriti,RJ,1,1,0,0,0,10,21.1915,55.219
+
+38,44054381882,buddy@yahoo.com,Buddy,5/5/1977,M,Sao Joao de Meriti,RJ,4,0,1,1,7,0,32.8321,43.2644
+
+39,42755625066,royal@aol.com,Royal,2/4/1985,M,Joinville,SC,2,0,1,1,4,7,30.0193,59.3498
+
+40,40773220274,louise@outlook.com,Louise,3/10/1984,M,Vila Velha,ES,0,0,1,1,2,7,14.658,41.1913
+
+41,40607345000,ed@gmail.com,Ed,5/1/1980,M,Sao Jose,SC,2,0,0,0,1,0,17.5114,53.3029
+
+42,47713723415,murphy@gmail.com,Murphy,12/7/1947,M,Jaragua do Sul,SC,1,0,0,0,1,14,32.5068,49.8195
+
+43,46897350835,almon@aol.com,Almon,16/1/1948,M,Chapeco,SC,2,0,1,1,9,7,17.1827,34.7489
+
+44,49744197722,dock@outlook.com,Dock,3/6/1997,M,Colatina,ES,0,1,0,0,10,4,34.7519,50.5288
+
+45,40112253013,lonnie@outlook.com,Lonnie,5/1/1974,M,Sao Joao de Meriti,RJ,4,1,1,1,7,14,25.902,57.3224
+
+46,47411065551,laverne@aol.com,Laverne,16/8/1971,M,Itajai,SC,0,0,0,1,6,4,26.0427,55.2499
+
+47,41891434959,josephine@gmail.com,Josephine,30/4/1948,M,Guarulhos,SP,4,0,0,1,10,6,14.1073,54.0126
+
+48,49524809552,pat@yahoo.com,Pat,12/12/1963,M,Joinville,SC,4,1,1,0,2,10,20.1335,32.9257
+
+49,47132722324,mildred@gmail.com,Mildred,23/1/1968,M,Joinville,SC,3,1,0,1,10,4,17.9818,31.5988
+
+50,45245385555,horace@yahoo.com,Horace,19/3/1938,M,Uberlandia,MG,5,0,0,1,1,14,32.3885,55.2097
+
+51,43615246219,raleigh@outlook.com,Raleigh,17/10/1971,M,Uberlandia,MG,4,1,1,0,7,4,10.8991,57.2942
+
+52,47342535632,stacy@gmail.com,Stacy,14/2/1956,M,Volta Redonda,RJ,5,1,0,1,7,0,16.1754,34.7937
+
+53,40717759926,elton@yahoo.com,Elton,22/2/1978,M,Governador Valadares,MG,2,1,1,1,1,12,29.3162,45.1875
+
+54,43763582582,josiah@outlook.com,Josiah,12/7/1939,M,Belford Roxo,RJ,1,0,0,1,9,11,35.0791,33.477
+
+55,45459595263,johnnie@gmail.com,Johnnie,13/5/1988,M,Volta Redonda,RJ,3,0,1,0,1,9,30.3275,37.4541
+
+56,44977632824,burley@gmail.com,Burley,27/6/1970,M,Santo Andre,SP,2,0,1,1,8,1,35.2663,31.8654
+
+57,43731731304,eli@gmail.com,Eli,7/5/1957,M,Montes Claros,MG,0,0,1,0,2,9,36.3036,30.4989
+
+58,46971595590,bertrand@yahoo.com,Bertrand,9/3/1955,M,Rio de Janeiro,RJ,0,0,0,1,4,1,13.4695,49.3644
+
+59,44013440216,ben@outlook.com,Ben,14/8/1991,M,Sao Joao de Meriti,RJ,0,0,1,0,3,11,22.4354,53.8275
+
+60,42868910110,lincoln@aol.com,Lincoln,24/8/1951,M,Uberlandia,MG,1,0,0,1,6,2,17.2111,39.1847
+
+61,45210331333,linus@aol.com,Linus,17/1/1988,M,Linhares,ES,3,1,0,1,2,0,10.9999,59.1891
+
+62,46994952468,neal@outlook.com,Neal,27/4/1956,M,Ribeirao das Neves,MG,0,0,0,0,2,1,27.3579,41.6079
+
+63,46005230963,tracy@yahoo.com,Tracy,26/7/1970,M,Juiz de Fora,MG,2,0,0,0,1,3,14.5138,35.6956
+
+64,43782268622,nicholas@yahoo.com,Nicholas,18/5/1997,M,Palhoca,SC,5,0,0,1,5,6,13.743,44.1047
+
+65,43719089780,royce@aol.com,Royce,12/10/1982,M,Uberlandia,MG,5,0,0,0,6,5,39.9568,49.8495
+
+66,40561448166,oakley@yahoo.com,Oakley,6/6/1939,M,Vitoria,ES,4,0,1,1,6,6,16.4588,45.3903
+
+67,44059733793,roosevelt@aol.com,Roosevelt,3/3/1936,M,Uberaba,MG,3,1,0,1,7,14,17.1842,57.1643
+
+68,46435886406,masao@outlook.com,Masao,25/1/1969,M,Contagem,MG,1,0,0,0,6,14,29.4568,34.3902
+
+69,42436044244,virgil@outlook.com,Virgil,30/11/1986,M,Belford Roxo,RJ,4,0,1,0,9,5,25.0605,44.0009
+
+70,45462541355,durwood@aol.com,Durwood,21/3/1985,M,Santo Andre,SP,1,1,0,1,9,10,10.3739,55.1401
+
+71,42978985010,phil@aol.com,Phil,10/9/1971,M,Juiz de Fora,MG,1,0,1,0,8,4,26.1853,40.5804
+
+72,48893996168,finis@aol.com,Finis,24/10/1961,M,Duque de Caxias,RJ,5,1,1,1,5,9,34.2896,47.4305
+
+73,46983492252,galen@outlook.com,Galen,15/6/1964,M,Belford Roxo,RJ,0,1,0,1,7,10,39.9393,42.2132
+
+74,48007898933,micheal@gmail.com,Micheal,25/12/1980,M,Sao Jose,SC,4,0,0,1,0,11,30.3752,34.6592
+
+75,48984982005,sigmund@outlook.com,Sigmund,22/10/1961,M,Blumenau,SC,1,1,0,0,5,3,35.2377,35.1798
+
+76,42257086735,rodney@outlook.com,Rodney,18/3/1995,M,Cachoeiro de Itapemirim,ES,1,0,0,0,6,13,17.2091,54.9185
+
+77,41930805991,hermon@aol.com,Hermon,17/7/1989,M,Linhares,ES,5,1,0,1,3,0,37.8685,51.7761
+
+78,44686460500,harvey@yahoo.com,Harvey,5/2/1976,M,RIbeirao Preto,SP,4,1,1,0,10,8,21.0895,39.1913
+
+79,49332864816,hugo@yahoo.com,Hugo,18/4/1977,M,Osasco,SP,5,1,1,1,5,3,18.2356,49.5369
+
+80,44909554766,judge@gmail.com,Judge,29/7/1986,M,Governador Valadares,MG,3,0,0,1,3,5,20.6883,50.8797
+
+81,44090626788,benny@gmail.com,Benny,29/8/1970,M,Itajai,SC,3,1,1,0,6,8,36.0244,37.6952
+
+82,43934278158,evert@outlook.com,Evert,17/5/1983,M,Rio de Janeiro,RJ,5,1,1,1,1,10,27.7462,58.7497
+
+83,47173341063,lester@gmail.com,Lester,22/1/1947,M,Cariacica,ES,3,0,1,1,8,15,33.0732,37.201
+
+84,46775139624,luke@gmail.com,Luke,27/5/1990,M,Sao Jose dos Campos,SP,0,0,1,0,6,4,13.1317,35.8654
+
+85,48463548675,alois@outlook.com,Alois,14/4/1990,M,Cariacica,ES,4,0,1,0,0,12,24.8266,56.4151
+
+86,43314843472,reginald@aol.com,Reginald,15/3/1935,M,Santo Andre,SP,3,0,0,0,3,5,27.5311,34.0573
+
+87,43562545681,hyman@yahoo.com,Hyman,21/8/1987,M,Vitoria,ES,1,1,0,0,8,10,24.5446,51.1546
+
+88,43634101464,don@gmail.com,Don,1/7/1969,M,Betim,MG,3,0,0,0,2,14,11.2351,33.9078
+
+89,48091882768,norwood@yahoo.com,Norwood,24/5/1933,M,Sao Bernardo do Campo,SP,4,1,1,1,5,11,35.1264,42.6784
+
+90,47551076618,harlan@outlook.com,Harlan,19/11/1989,M,Cachoeiro de Itapemirim,ES,0,0,1,0,6,15,23.9623,54.9053
+
+91,48269786562,jon@aol.com,Jon,18/7/1945,M,Vitoria,ES,1,0,1,0,0,13,23.6527,44.86
+
+92,40507334536,frederick@aol.com,Frederick,12/5/1967,M,Itajai,SC,0,1,1,1,5,14,19.0868,38.7142
+
+93,49559675802,rodger@aol.com,Rodger,4/11/1938,M,Osasco,SP,3,0,1,0,5,3,36.764,57.197
+
+94,41948773078,marco@yahoo.com,Marco,17/2/1947,M,Chapeco,SC,0,1,1,1,4,1,35.735,37.7762
+
+95,46446772525,dallas@aol.com,Dallas,27/2/1977,M,Petropolis,RJ,5,1,0,1,5,13,25.1741,41.0824
+
+96,45325853623,alejandro@outlook.com,Alejandro,26/2/1986,M,Guarapari,ES,3,1,1,0,6,10,12.8436,41.4047
+
+97,49521372736,theodore@aol.com,Theodore,25/12/1940,M,Ribeirao das Neves,MG,3,0,1,0,7,7,15.7762,47.2627
+
+98,43839179464,jeff@outlook.com,Jeff,22/2/1953,M,Osasco,SP,1,1,1,1,8,6,16.4393,54.0553
+
+99,44022333989,otho@gmail.com,Otho,19/11/1993,M,Belo Horizonte,MG,0,0,0,0,2,7,18.0309,56.2662
+
+100,47056964123,wilfred@gmail.com,Wilfred,9/8/1936,M,Osasco,SP,0,0,1,1,1,11,39.6748,32.6319
+
+101,47292233796,reynaldo@yahoo.com,Reynaldo,24/2/1939,M,Juiz de Fora,MG,5,0,0,1,7,7,16.7963,44.144
+
+102,42024157283,alfred@aol.com,Alfred,11/5/1952,M,Guarulhos,SP,1,0,0,1,8,5,29.8145,31.8634
+
+103,46554761742,rolland@outlook.com,Rolland,9/10/1963,M,Lages,SC,3,0,1,0,5,7,12.2659,49.6173
+
+104,44048396382,garfield@yahoo.com,Garfield,21/11/1930,M,Belford Roxo,RJ,0,1,0,0,10,2,37.3884,31.8623
+
+105,47809340145,ellis@outlook.com,Ellis,30/1/1980,M,Serra,ES,5,0,1,0,0,4,28.8838,42.4217
+
+106,41665658884,robin@gmail.com,Robin,20/7/1947,M,Governador Valadares,MG,4,0,0,0,0,10,30.3261,31.3003
+
+107,46725898145,stanley@gmail.com,Stanley,13/5/1981,M,Chapeco,SC,1,0,1,0,8,15,18.717,42.991
+
+108,42497053771,ward@yahoo.com,Ward,2/2/1945,M,Cariacica,ES,5,1,1,0,10,6,10.9694,38.2524
+
+109,41413597351,von@aol.com,Von,13/10/1939,M,Governador Valadares,MG,2,1,0,1,8,1,22.6358,42.7408
+
+110,42152746146,eldon@aol.com,Eldon,27/1/1964,M,Belford Roxo,RJ,2,0,0,0,0,11,39.7555,58.1766
+
+111,40969386210,justin@yahoo.com,Justin,2/4/1989,M,Ribeirao das Neves,MG,1,1,1,1,2,4,27.9272,30.462
+
+112,43766932675,francis@aol.com,Francis,22/4/1930,M,Guarulhos,SP,5,0,1,0,4,1,26.1648,52.6139
+
+113,49998395190,jerrold@aol.com,Jerrold,13/1/1956,M,Niteroi,RJ,3,0,0,0,9,14,23.104,38.906
+
+114,49886059226,kim@outlook.com,Kim,17/8/1977,M,Volta Redonda,RJ,4,1,0,1,0,12,21.4923,43.0394
+
+115,44720575830,avery@aol.com,Avery,15/5/1946,M,RIbeirao Preto,SP,4,1,0,0,4,3,37.3983,33.1077
+
+116,46053151776,harry@gmail.com,Harry,1/3/1944,M,Sao Jose,SC,0,0,1,0,6,5,17.5611,41.9718
+
+117,40846181193,mervin@aol.com,Mervin,30/12/1949,M,Ipatinga,MG,4,0,0,1,2,4,19.3242,44.7535
+
+118,42862594740,vicente@gmail.com,Vicente,27/4/1973,M,Palhoca,SC,3,1,1,1,10,1,10.9942,36.7481
+
+119,47139427237,clark@yahoo.com,Clark,30/6/1938,M,Cariacica,ES,4,1,1,1,0,12,31.0936,49.7049
+
+120,42743027750,donn@aol.com,Donn,6/10/1987,M,Cariacica,ES,1,1,1,0,9,12,10.2239,50.5615
+
+121,47381313886,albert@outlook.com,Albert,6/3/1941,M,Chapeco,SC,3,0,1,0,2,7,32.6874,52.3524
+
+122,41830389105,vaughn@gmail.com,Vaughn,9/6/1954,M,Betim,MG,3,1,1,1,8,11,18.1233,52.1959
+
+123,43883710364,newell@aol.com,Newell,24/6/1977,M,Ipatinga,MG,1,0,0,0,1,1,32.6181,53.0559
+
+124,42221355591,ross@aol.com,Ross,1/5/1958,M,Juiz de Fora,MG,5,1,1,0,4,10,19.8118,57.357
+
+125,43364569967,dee@gmail.com,Dee,21/3/1959,M,Cariacica,ES,3,1,1,1,1,4,10.6255,59.2337
+
+126,44547322759,peter@gmail.com,Peter,5/10/1960,M,Volta Redonda,RJ,0,1,1,1,8,8,28.3452,45.2678
+
+127,42418589663,merlin@outlook.com,Merlin,12/11/1939,M,Ipatinga,MG,5,1,1,0,4,14,32.1039,58.1337
+
+128,47426900028,lenny@yahoo.com,Lenny,18/11/1985,M,Cachoeiro de Itapemirim,ES,4,0,1,0,4,15,17.7556,56.0139
+
+129,46463479509,mitchell@outlook.com,Mitchell,4/2/1964,M,Chapeco,SC,5,1,1,0,4,6,21.1205,37.6647
+
+130,43953995610,burl@outlook.com,Burl,30/5/1959,M,Belford Roxo,RJ,3,1,0,0,10,12,24.4426,32.6238
+
+131,41165100690,gregory@gmail.com,Gregory,7/10/1953,M,Sao Joao de Meriti,RJ,3,1,0,0,9,6,17.3248,52.8438
+
+132,40950890795,thurman@aol.com,Thurman,3/1/1977,M,Sao Bernardo do Campo,SP,1,1,0,1,9,6,33.8699,47.477
+
+133,43969829178,tyler@yahoo.com,Tyler,10/3/1987,M,Palhoca,SC,5,1,0,0,3,9,10.0871,47.366
+
+134,48707542893,byron@outlook.com,Byron,4/11/1954,M,Betim,MG,0,1,1,0,5,2,39.6412,37.6085
+
+135,47260703585,basil@gmail.com,Basil,1/4/1939,M,Uberaba,MG,1,1,0,0,2,11,17.0581,32.8963
+
+136,40686820441,terry@gmail.com,Terry,7/3/1970,M,Uberaba,MG,1,0,1,0,8,9,20.2956,32.4028
+
+137,42854606924,rodolfo@aol.com,Rodolfo,26/11/1950,M,Guarapari,ES,4,0,0,1,9,10,11.2819,43.5359
+
+138,43613950207,kip@yahoo.com,Kip,4/4/1975,M,Sao Joao de Meriti,RJ,4,1,0,1,2,8,37.6444,53.1676
+
+139,44862142956,tyrone@gmail.com,Tyrone,4/5/1959,M,Osasco,SP,5,1,0,1,0,5,18.3758,55.3974
+
+140,45218227626,mitchel@outlook.com,Mitchel,20/12/1970,M,Campos dos Goytacazes,RJ,3,1,1,1,1,5,38.9669,47.3678
+
+141,47192760101,edward@yahoo.com,Edward,28/5/1950,M,Uberaba,MG,1,0,0,0,5,15,37.0646,53.5107
+
+142,49039360003,barney@yahoo.com,Barney,2/11/1992,M,Contagem,MG,4,1,1,0,1,8,21.0169,37.9206
+
+143,48275998262,walker@gmail.com,Walker,1/11/1950,M,Sorocaba,SP,2,1,1,1,2,10,11.0601,51.5981
+
+144,46492536568,morris@gmail.com,Morris,20/4/1964,M,Sao Jose,SC,1,1,0,1,10,8,22.9857,55.0091
+
+145,40699349294,arlen@yahoo.com,Arlen,28/11/1950,M,Guarapari,ES,0,0,1,0,0,7,19.9175,52.0076
+
+146,46063362292,larry@aol.com,Larry,9/1/1939,M,Chapeco,SC,2,1,0,0,3,11,39.8042,52.3248
+
+147,47988675428,dannie@gmail.com,Dannie,2/3/1989,M,RIbeirao Preto,SP,5,0,0,1,2,3,27.441,42.1202
+
+148,42220701112,dewitt@gmail.com,Dewitt,10/6/1975,M,Belford Roxo,RJ,2,1,1,0,9,2,12.2344,31.7223
+
+149,47256176293,clifton@aol.com,Clifton,23/1/1960,M,Guarulhos,SP,2,0,0,0,4,7,39.6833,55.9391
+
+150,48913242529,matt@gmail.com,Matt,6/10/1964,M,Governador Valadares,MG,1,1,1,1,5,13,11.5023,40.6524
+
+151,43365583593,joseph@aol.com,Joseph,10/10/1931,M,Sao Joao de Meriti,RJ,5,1,1,1,3,3,27.8228,35.5052
+
+152,44229146857,bart@aol.com,Bart,27/1/1952,M,Campos dos Goytacazes,RJ,1,1,0,0,3,10,31.8831,49.4675
+
+153,41862835243,bertram@gmail.com,Bertram,8/12/1979,M,Niteroi,RJ,2,1,1,0,3,7,26.3164,55.7581
+
+154,49469849857,antonio@yahoo.com,Antonio,11/5/1993,M,RIbeirao Preto,SP,4,1,0,0,4,9,31.322,36.722
+
+155,43083745340,rogelio@gmail.com,Rogelio,25/1/1995,M,Jaragua do Sul,SC,1,1,0,1,7,2,33.0458,48.0479
+
+156,45357525531,richard@yahoo.ca,Richard,17/8/1980,M,Itajai,SC,0,1,0,0,0,4,23.2071,43.0616
+
+157,49138241029,dewey@outlook.com,Dewey,3/1/1946,M,Campinas,SP,5,0,0,0,3,8,37.9407,53.1028
+
+158,45945013850,damian@aol.com,Damian,16/6/1982,M,Sao Mateus,ES,4,0,0,1,1,1,39.0621,30.5341
+
+159,46135358216,jimmie@aol.com,Jimmie,18/6/1951,M,Itajai,SC,0,1,0,1,10,8,27.3402,43.6624
+
+160,42489222163,jake@gmail.com,Jake,17/11/1946,M,Osasco,SP,1,0,0,0,9,13,28.8921,56.3009
+
+161,48756155880,james@gmail.com,James,28/7/1968,M,Vila Velha,ES,1,0,1,1,2,10,27.6373,43.0241
+
+162,49025221168,alfonso@gmail.com,Alfonso,13/10/1947,M,Serra,ES,1,0,1,1,6,7,20.6982,54.2039
+
+163,44214735377,lars@outlook.com,Lars,10/10/1943,M,Governador Valadares,MG,5,0,1,0,6,12,16.6158,42.2153
+
+164,47471139520,lanny@aol.com,Lanny,7/8/1984,M,Governador Valadares,MG,4,1,1,1,3,10,32.4743,49.5825
+
+165,45842010156,mitch@outlook.com,Mitch,13/6/1972,M,Jaragua do Sul,SC,0,1,1,1,9,13,36.17,36.8541
+
+166,44456864209,lorne@gmail.com,Lorne,13/6/1972,M,Sao Paulo,SP,5,0,0,1,7,9,31.0662,44.9256
+
+167,49987773994,leon@yahoo.com,Leon,24/7/1975,M,Sao Bernardo do Campo,SP,0,0,1,0,0,8,12.8695,52.4851
+
+168,41883368445,elvis@outlook.com,Elvis,16/12/1943,M,Sao Mateus,ES,5,0,1,1,2,10,32.6062,32.5017
+
+169,48879982031,arlie@aol.com,Arlie,23/9/1934,M,Sao Joao de Meriti,RJ,3,1,1,1,9,11,27.8937,55.9905
+
+170,41365803938,rickie@yahoo.com,Rickie,3/10/1976,M,Palhoca,SC,1,1,0,0,10,9,25.0953,31.1903
+
+171,48135275834,elwood@aol.com,Elwood,5/10/1935,M,Itajai,SC,2,1,1,1,8,9,23.5198,52.5863
+
+172,46462725181,eddy@aol.com,Eddy,12/12/1968,M,Vitoria,ES,0,1,1,1,3,7,11.3692,33.8863
+
+173,44534866061,olin@aol.com,Olin,23/4/1938,M,Uberlandia,MG,5,1,0,1,7,0,20.4571,50.0062
+
+174,43072688574,van@outlook.com,Van,13/11/1989,M,Betim,MG,3,0,0,1,1,11,36.946,30.7479
+
+175,41218788094,emory@outlook.com,Emory,28/6/1961,M,Linhares,ES,1,0,1,0,1,12,21.3537,57.706
+
+176,40203529262,daryl@gmail.com,Daryl,28/9/1989,M,Chapeco,SC,0,1,1,1,2,10,29.3953,54.2472
+
+177,42309613229,efrain@aol.com,Efrain,7/6/1955,M,Joinville,SC,1,0,1,1,0,15,31.2006,30.7573
+
+178,41515559795,cedrick@yahoo.com,Cedrick,13/5/1987,M,Blumenau,SC,4,1,1,0,9,1,13.1244,46.231
+
+179,45204170925,darnell@yahoo.com,Darnell,11/10/1964,M,Joinville,SC,0,0,0,1,1,1,23.1322,52.1857
+
+180,42650679665,jarrett@yahoo.com,Jarrett,24/4/1960,M,Contagem,MG,5,0,0,1,5,13,21.2152,52.5931
+
+181,42119178671,ethan@yahoo.com,Ethan,18/12/1993,M,Palhoca,SC,5,1,0,1,10,9,30.8936,52.7385
+
+182,42116779773,issac@gmail.com,Issac,12/7/1999,M,Criciuma,SC,1,0,1,0,4,13,36.8948,59.1368
+
+183,45183373737,clay@gmail.com,Clay,2/7/1939,M,Montes Claros,MG,1,0,0,1,0,12,25.0866,30.4934
+
+184,41326124076,quincy@gmail.com,Quincy,1/3/1974,M,Sao Goncalo,RJ,3,0,0,0,8,2,23.0663,40.6708
+
+185,43432203328,clinton@aol.com,Clinton,7/10/1992,M,Duque de Caxias,RJ,4,0,0,1,1,1,20.2087,30.8377
+
+186,41522069146,cleveland@outlook.com,Cleveland,2/12/1964,M,Ribeirao das Neves,MG,3,1,1,1,3,13,12.0798,34.1216
+
+187,49544816439,reese@gmail.com,Reese,5/4/1973,M,Serra,ES,4,1,0,1,0,6,33.5154,48.301
+
+188,49834193370,tate@aol.com,Tate,7/4/1949,M,Guarulhos,SP,2,0,0,0,1,1,24.9703,41.6273
+
+189,40027144216,devon@aol.com,Devon,29/10/1943,M,Lages,SC,3,0,1,1,10,7,37.0106,43.3841
+
+190,49169770270,claudio@gmail.com,Claudio,28/1/1943,M,Chapeco,SC,0,1,0,0,6,5,16.8463,53.1436
+
+191,41767284182,sammy@aol.com,Sammy,21/3/1940,M,Florianopolis,SC,3,0,1,0,3,13,36.8343,56.2154
+
+192,44691679980,coy@yahoo.com,Coy,14/11/1989,M,Campinas,SP,5,1,0,1,1,1,33.0739,33.2087
+
+193,43193239428,wesley@gmail.com,Wesley,6/8/1999,M,Cachoeiro de Itapemirim,ES,1,1,0,0,2,12,34.0708,32.0831
+
+194,49319880120,ken@gmail.com,Ken,23/8/1971,M,Itajai,SC,2,1,1,0,0,1,17.124,47.5294
+
+195,47177190225,antwon@gmail.com,Antwon,20/10/1972,M,Vitoria,ES,5,0,0,1,7,3,38.7317,44.6509
+
+196,49100309414,ernest@yahoo.com,Ernest,28/10/1997,M,Sao Goncalo,RJ,0,0,1,0,10,15,21.1516,42.5816
+
+197,41297574135,stefan@gmail.com,Stefan,8/9/1984,M,Aracruz,ES,4,0,0,1,10,5,17.9632,59.2768
+
+198,40845116494,kennith@gmail.com,Kennith,19/11/1982,M,Campos dos Goytacazes,RJ,5,0,1,1,10,1,33.1325,31.7383
+
+199,44098200209,leo@outlook.com,Leo,18/3/1971,M,Sao Paulo,SP,2,0,1,1,4,1,27.5113,59.2713
+
+200,41155321110,adolfo@outlook.com,Adolfo,18/11/1993,M,Governador Valadares,MG,1,0,0,1,7,7,22.029,42.1477
+
+201,45266276025,roberto@aol.com,Roberto,17/8/1941,M,Ribeirao das Neves,MG,5,1,0,1,7,11,39.1569,36.4012
+
+202,47377755104,isidro@yahoo.com,Isidro,4/11/1940,M,Betim,MG,1,0,0,0,9,1,27.1801,35.9986
+
+203,41542287097,darin@aol.com,Darin,21/1/1950,M,Ribeirao das Neves,MG,5,0,0,0,7,6,21.4472,57.4369
+
+204,44375516775,jermey@yahoo.com,Jermey,6/2/1944,M,Campos dos Goytacazes,RJ,1,0,0,0,1,7,13.7545,48.1925
+
+205,48322351521,isaac@aol.com,Isaac,16/7/1988,M,RIbeirao Preto,SP,4,1,1,0,10,7,27.4324,39.2085
+
+206,49610653159,sterling@yahoo.com,Sterling,8/3/1967,M,RIbeirao Preto,SP,0,0,0,1,6,15,37.9921,37.5981
+
+207,48466343144,jarad@aol.com,Jarad,1/2/1951,M,Florianopolis,SC,4,0,1,1,4,0,16.5166,47.7787
+
+208,40441072348,dwight@gmail.com,Dwight,10/10/1988,M,Governador Valadares,MG,1,1,0,0,6,14,39.5265,36.4458
+
+209,49588581520,brennan@outlook.com,Brennan,2/8/1983,M,Jaragua do Sul,SC,0,0,0,1,10,8,35.839,30.9861
+
+210,42115473087,chandler@yahoo.com,Chandler,9/8/1935,M,Vitoria,ES,0,0,0,0,4,8,36.884,32.7954
+
+211,43760388797,duane@outlook.com,Duane,23/3/1980,M,Sao Jose dos Campos,SP,0,0,0,1,9,3,14.145,59.6039
+
+212,42742827395,davin@aol.com,Davin,17/1/1959,M,Guarulhos,SP,3,0,0,1,7,2,29.071,56.7267
+
+213,42050551909,billy@gmail.com,Billy,24/6/1974,M,Belo Horizonte,MG,0,0,0,0,0,15,35.5075,35.7706
+
+214,44985063657,amos@aol.com,Amos,15/1/1963,M,Santo Andre,SP,3,1,1,0,8,12,25.3781,42.8616
+
+215,41910920618,brandin@outlook.com,Brandin,10/12/1995,M,Sao Goncalo,RJ,2,0,0,0,5,8,32.5093,42.7262
+
+216,41743853184,hunter@gmail.com,Hunter,1/5/1960,M,Juiz de Fora,MG,4,1,0,0,6,11,32.2335,56.2007
+
+217,44008823276,jacques@yahoo.com,Jacques,8/5/1987,M,Aracruz,ES,2,0,0,1,5,5,35.283,55.0883
+
+218,42079302921,cameron@gmail.com,Cameron,23/1/1939,M,Aracruz,ES,1,0,1,1,0,0,14.3636,59.1744
+
+219,40380278080,cecil@yahoo.com,Cecil,16/12/1969,M,Blumenau,SC,0,0,1,0,9,0,18.0294,52.4836
+
+220,43894766225,kai@yahoo.com,Kai,11/8/1981,M,Nova Iguacu,RJ,1,0,1,0,7,7,21.3158,47.3732
+
+221,49627114042,earl@outlook.com,Earl,21/2/1935,M,Cariacica,ES,4,0,0,0,10,6,29.0161,42.5034
+
+222,48754555332,jerry@outlook.com,Jerry,14/12/1992,M,Duque de Caxias,RJ,5,1,0,0,0,3,32.2509,56.6225
+
+223,42702976576,donnie@gmail.com,Donnie,2/10/1966,M,Governador Valadares,MG,2,1,0,1,8,7,36.1585,48.9062
+
+224,47751826193,dangelo@outlook.com,Dangelo,24/9/1964,M,Blumenau,SC,2,0,0,1,3,10,27.9235,33.0595
+
+225,41927975889,chance@gmail.com,Chance,3/10/1948,M,Jaragua do Sul,SC,3,1,0,1,1,11,12.7163,51.1932
+
+226,47106754499,jefferson@aol.com,Jefferson,30/5/1982,M,Palhoca,SC,4,0,0,0,1,11,24.159,37.8723
+
+227,47596171319,alan@aol.com,Alan,27/4/1971,M,Sao Goncalo,RJ,1,1,1,0,4,12,23.46,42.5675
+
+228,41798334282,mackenzie@yahoo.com,Mackenzie,27/3/1976,M,Blumenau,SC,0,1,1,1,9,8,10.7495,40.2506
+
+229,44727652681,dave@aol.com,Dave,20/12/1967,M,Sao Jose,SC,5,1,0,1,7,0,39.0008,45.2268
+
+230,40638861706,giovanni@yahoo.com,Giovanni,23/5/1952,M,Sao Paulo,SP,4,0,1,1,9,12,31.3756,46.1044
+
+231,42888755935,cullen@yahoo.com,Cullen,10/4/1996,M,Uberaba,MG,3,1,0,0,1,14,29.7245,35.352
+
+232,48288798860,derrick@aol.com,Derrick,9/10/1984,M,Sao Jose,SC,5,1,1,1,7,4,14.3226,37.3449
+
+233,40508896311,perry@yahoo.com,Perry,22/1/1988,M,Linhares,ES,0,0,0,1,2,3,37.1751,46.0721
+
+234,42910027237,davonta@aol.com,Davonta,10/12/1988,M,Belo Horizonte,MG,3,0,0,1,8,6,37.5213,30.9328
+
+235,44790858722,dean@yahoo.com,Dean,12/3/1995,M,Sao Bernardo do Campo,SP,3,0,1,1,7,0,13.3008,40.3733
+
+236,41716620891,jarod@aol.com,Jarod,28/5/1946,M,Joinville,SC,0,0,1,0,2,12,13.0475,48.0462
+
+237,41397400742,raymond@outlook.com,Raymond,25/3/1955,M,Sao Goncalo,RJ,3,0,0,0,7,10,20.7087,40.6786
+
+238,49379836206,grayson@outlook.com,Grayson,24/7/1987,M,Campinas,SP,1,0,0,0,8,6,35.5053,40.8487
+
+239,43091707729,edmund@outlook.com,Edmund,12/1/1998,M,Vitoria,ES,0,1,1,1,7,0,12.063,55.8087
+
+240,42118869058,conor@yahoo.com,Conor,24/9/1967,M,Sao Jose dos Campos,SP,4,1,0,0,3,10,20.3401,38.1547
+
+241,43082870855,austyn@outlook.com,Austyn,14/2/1986,M,Jaragua do Sul,SC,1,1,0,1,10,5,28.7031,57.2643
+
+242,46157409424,brett@gmail.com,Brett,28/9/1989,M,Belo Horizonte,MG,1,0,1,1,5,3,28.6287,50.585
+
+243,43049656333,santiago@outlook.com,Santiago,7/2/1993,M,Nova Iguacu,RJ,5,1,0,0,1,14,32.4426,30.1929
+
+244,41148007353,andreas@aol.com,Andreas,8/9/1997,M,Osasco,SP,4,1,1,0,9,8,15.5488,30.5254
+
+245,48065632861,angelo@gmail.com,Angelo,13/4/1979,M,Campinas,SP,2,0,1,1,5,7,22.4381,37.7697
+
+246,43838728973,raheem@aol.com,Raheem,4/10/1965,M,Governador Valadares,MG,4,0,0,1,2,1,22.2255,32.6132
+
+247,44691242965,colton@yahoo.com,Colton,22/4/1974,M,Niteroi,RJ,0,1,0,1,6,12,16.7085,36.8252
+
+248,49987350753,tylor@gmail.com,Tylor,26/10/1967,M,Guarulhos,SP,4,1,0,1,9,2,36.1997,30.6537
+
+249,41733311898,ramon@aol.com,Ramon,16/3/1979,M,Governador Valadares,MG,4,0,1,0,8,9,17.0362,48.7249
+
+250,48714276811,jarvis@aol.com,Jarvis,26/6/1969,M,Sao Paulo,SP,5,0,0,1,3,5,16.2375,33.5737
+
+251,45044090348,paul@aol.com,Paul,6/4/1953,M,Betim,MG,5,1,0,0,4,3,32.3826,32.4031
+
+252,46612101447,davon@yahoo.com,Davon,1/10/1976,M,Maua,SP,5,1,0,0,9,8,35.7728,50.1467
+
+253,40345342037,bernardo@gmail.com,Bernardo,23/4/1991,M,Florianopolis,SC,0,1,0,0,9,0,33.2692,57.7717
+
+254,45975686792,roman@outlook.com,Roman,22/8/1993,M,Governador Valadares,MG,1,0,0,0,7,8,15.3601,56.8939
+
+255,46820363642,jaxson@yahoo.com,Jaxson,2/7/1931,M,Serra,ES,5,0,1,1,6,7,15.0978,58.4477
+
+256,42445536061,jeremy@gmail.com,Jeremy,20/9/1985,M,Montes Claros,MG,2,0,1,1,0,1,29.7679,33.2493
+
+257,48521581226,reed@aol.com,Reed,12/5/1990,M,Ipatinga,MG,1,1,1,1,5,15,10.8338,44.8597
+
+258,41710941347,glen@outlook.com,Glen,10/2/1950,M,Maua,SP,1,0,0,1,8,14,22.8028,55.1361
+
+259,48525007655,jonathon@yahoo.com,Jonathon,18/10/1934,M,Cariacica,ES,3,1,1,1,8,4,39.8715,35.1548
+
+260,45893355600,zechariah@yahoo.com,Zechariah,17/1/1949,M,Belford Roxo,RJ,0,1,0,1,0,13,27.2503,41.4049
+
+261,48757774185,joey@yahoo.com,Joey,23/11/1940,M,Guarapari,ES,3,1,1,0,0,0,16.6775,44.4502
+
+262,46204249311,heriberto@aol.com,Heriberto,19/11/1975,M,Sao Paulo,SP,5,0,1,0,9,13,33.9447,54.4086
+
+263,42183785881,adan@outlook.com,Adan,13/1/1967,M,Linhares,ES,1,0,1,1,8,14,27.6185,38.1916
+
+264,43567339882,lamar@gmail.com,Lamar,12/3/1930,M,Campinas,SP,3,0,1,0,9,12,24.9233,44.4781
+
+265,41384837565,dominic@gmail.com,Dominic,12/10/1963,M,Duque de Caxias,RJ,1,1,0,0,5,12,38.3476,51.0009
+
+266,43023368776,bobby@outlook.com,Bobby,12/5/1958,M,Palhoca,SC,4,0,1,0,0,0,15.9038,36.1525
+
+267,46970064049,nikhil@gmail.com,Nikhil,30/1/1930,M,Juiz de Fora,MG,4,0,0,1,9,15,36.3966,31.2953
+
+268,48961595499,mateo@gmail.com,Mateo,3/12/1967,M,Campos dos Goytacazes,RJ,1,1,0,1,2,7,28.2385,41.1545
+
+269,45447756703,nico@yahoo.com,Nico,7/11/1988,M,Betim,MG,0,0,0,0,8,7,31.9841,38.9807
+
+270,42010214836,ian@gmail.com,Ian,27/11/1994,M,Santo Andre,SP,0,1,0,0,10,5,11.827,41.1269
+
+271,40118552687,melvin@outlook.com,Melvin,1/7/1959,M,Cariacica,ES,0,0,1,0,6,10,35.0749,44.0411
+
+272,43436995939,konnor@yahoo.com,Konnor,26/8/1971,M,Uberaba,MG,0,0,1,1,8,3,33.6111,59.662
+
+273,44496485203,norma@outlook.com,Norma,8/10/1976,F,Vila Velha,ES,5,0,1,1,4,8,30.4889,39.8255
+
+274,44764230027,zetta@gmail.com,Zetta,18/11/1960,F,Itajai,SC,5,1,1,0,7,7,28.0379,56.6942
+
+275,46965777755,mae@gmail.com,Mae,3/9/1968,F,Duque de Caxias,RJ,2,0,0,1,0,6,20.4628,39.428
+
+276,41610719498,florida@gmail.com,Florida,7/5/1960,F,Serra,ES,3,1,1,1,2,10,30.3811,31.1289
+
+277,45025597881,gwendolyn@yahoo.com,Gwendolyn,25/5/1932,F,Governador Valadares,MG,0,1,0,1,7,7,27.8916,54.7191
+
+278,40674718526,lina@gmail.com,Lina,10/10/2000,F,Campinas,SP,3,1,1,1,4,0,23.989,31.2089
+
+279,46572075353,sidney@outlook.com,Sidney,12/12/1943,F,Ribeirao das Neves,MG,4,0,1,1,9,6,35.6838,49.097
+
+280,46691715410,frank@outlook.com,Frank,10/2/1949,F,Ipatinga,MG,4,0,0,0,6,0,31.846,47.4033
+
+281,48723628617,josefa@yahoo.com,Josefa,2/9/1972,F,Florianopolis,SC,3,0,1,0,1,14,35.3024,47.3089
+
+282,49348226817,olivia@aol.com,Olivia,8/9/1964,F,Chapeco,SC,4,0,0,1,9,7,32.2682,50.2579
+
+283,44038786416,margery@yahoo.com,Margery,26/4/1932,F,Criciuma,SC,1,1,0,1,4,11,14.1779,39.399
+
+284,41583307499,lizzie@gmail.com,Lizzie,16/12/1960,F,Sao Joao de Meriti,RJ,4,1,0,0,7,10,38.3735,58.2436
+
+285,42407671965,manda@gmail.com,Manda,9/11/1991,F,Serra,ES,4,1,1,1,6,9,26.769,53.6046
+
+286,46674366314,elna@aol.com,Elna,9/11/1988,F,Sao Jose dos Campos,SP,5,0,0,0,10,9,14.0435,40.8798
+
+287,46429037949,lida@yahoo.com,Lida,3/8/1990,F,Sao Joao de Meriti,RJ,2,0,1,0,5,13,31.9455,41.1824
+
+288,44108984724,amalia@gmail.com,Amalia,26/7/1971,F,Maua,SP,0,0,1,1,2,2,25.9691,38.6841
+
+289,46051805064,rosa@aol.com,Rosa,15/7/1931,F,Blumenau,SC,0,0,0,1,7,12,15.5415,50.8571
+
+290,40822943480,berta@aol.com,Berta,11/2/1933,F,Campinas,SP,1,1,0,1,0,12,28.8918,57.8916
+
+291,47310215295,victorine@yahoo.com,Victorine,28/9/1942,F,Lages,SC,2,0,0,1,1,5,30.1611,34.852
+
+292,49776207832,claudia@aol.com,Claudia,7/1/1946,F,Sao Jose dos Campos,SP,5,1,1,1,3,6,10.5793,40.207
+
+293,49299275292,malissa@gmail.com,Malissa,14/3/1955,F,Colatina,ES,3,1,0,0,0,2,23.6593,40.4002
+
+294,48348566224,stella@gmail.com,Stella,29/10/1975,F,Palhoca,SC,0,0,1,0,8,3,10.9753,39.1181
+
+295,42341046710,adela@yahoo.com,Adela,6/4/1945,F,Ipatinga,MG,2,0,1,1,1,5,37.3306,51.7167
+
+296,43226144163,dot@gmail.com,Dot,24/3/1963,F,Sorocaba,SP,0,1,0,1,5,1,35.884,50.8123
+
+297,45679191653,wilhelmina@gmail.com,Wilhelmina,11/1/1945,F,RIbeirao Preto,SP,2,0,0,0,0,9,34.9051,42.1251
+
+298,49849908793,helga@aol.com,Helga,24/7/1987,F,Linhares,ES,1,0,0,0,8,4,12.8369,51.5746
+
+299,44557460769,lula@gmail.com,Lula,5/1/1940,F,RIbeirao Preto,SP,4,0,1,1,4,14,26.1982,55.2019
+
+300,45810075831,emmie@gmail.com,Emmie,18/10/1962,F,Cariacica,ES,2,1,1,1,8,7,36.27,37.2812
+
+301,47793937731,birtie@yahoo.com,Birtie,16/8/1974,F,Sorocaba,SP,0,1,0,0,3,2,19.1481,42.9044
+
+302,46254504302,myra@outlook.com,Myra,29/12/1998,F,Nova Iguacu,RJ,4,1,1,0,3,0,39.2325,34.6574
+
+303,42338558071,diana@yahoo.com,Diana,19/9/1938,F,Osasco,SP,0,0,0,1,5,11,26.6239,49.2725
+
+304,47919912884,jennie@gmail.com,Jennie,3/12/1935,F,Sao Mateus,ES,3,0,0,0,0,13,15.2725,56.5846
+
+305,41013056693,idella@aol.com,Idella,25/2/1995,F,Sao Bernardo do Campo,SP,1,0,0,1,3,4,37.7717,37.5291
+
+306,47350002374,hildegard@yahoo.com,Hildegard,23/12/1950,F,Aracruz,ES,1,0,0,0,6,6,26.004,48.7519
+
+307,45947736383,fay@outlook.com,Fay,24/10/1964,F,Montes Claros,MG,4,1,0,1,7,6,33.817,52.506
+
+308,42421634023,ursula@gmail.com,Ursula,23/10/1985,F,Campos dos Goytacazes,RJ,0,1,1,0,2,2,13.4811,53.4158
+
+309,40123047749,agnes@outlook.com,Agnes,23/10/1951,F,Campinas,SP,3,0,0,1,3,13,38.4324,30.711
+
+310,46803820301,lilian@aol.com,Lilian,15/7/1983,F,Vila Velha,ES,5,0,0,0,6,4,18.9201,41.0271
+
+311,41357367107,henry@outlook.com,Henry,29/8/1938,F,Sao Paulo,SP,0,1,0,0,4,3,14.9511,43.0376
+
+312,42113473644,cleo@aol.com,Cleo,26/2/1996,F,Vila Velha,ES,4,0,1,0,4,9,17.9856,30.9866
+
+313,41155230690,audra@aol.com,Audra,8/11/1938,F,Sao Jose dos Campos,SP,2,1,0,0,7,1,22.2723,55.4399
+
+314,44432092448,eva@gmail.com,Eva,1/11/1969,F,Palhoca,SC,0,1,1,0,8,5,24.9563,33.6924
+
+315,42003870684,lilla@aol.com,Lilla,17/7/1961,F,Governador Valadares,MG,0,1,1,0,6,12,32.1639,57.9762
+
+316,48528973017,corene@outlook.com,Corene,30/8/1999,F,Palhoca,SC,4,1,1,1,4,13,33.6268,47.2572
+
+317,40883844983,wilma@aol.com,Wilma,30/6/1974,F,Campos dos Goytacazes,RJ,5,0,0,0,5,5,35.2797,41.7505
+
+318,47472768408,adaline@outlook.com,Adaline,19/3/1978,F,Chapeco,SC,5,0,1,0,9,1,17.5597,37.7691
+
+319,44262959411,myrtle@yahoo.com,Myrtle,27/1/1936,F,Chapeco,SC,1,0,0,0,5,2,30.6006,32.6588
+
+320,48369948199,philomena@aol.com,Philomena,8/3/1930,F,Rio de Janeiro,RJ,4,1,1,1,3,8,37.6066,39.5897
+
+321,48363318092,roma@outlook.com,Roma,19/3/1943,F,Juiz de Fora,MG,1,0,0,1,8,0,22.6034,38.0842
+
+322,42121669968,audrey@yahoo.com,Audrey,17/8/1991,F,Duque de Caxias,RJ,5,1,1,1,0,4,31.1791,50.452
+
+323,45587544651,greta@yahoo.com,Greta,21/10/1986,F,Sorocaba,SP,0,0,1,0,4,5,20.9719,38.2521
+
+324,48191851060,frances@aol.com,Frances,14/3/1984,F,Campinas,SP,3,1,1,1,7,10,39.9449,46.0143
+
+325,46591269129,hortense@yahoo.com,Hortense,3/5/1969,F,Blumenau,SC,5,0,1,0,4,14,37.1123,51.3632
+
+326,45282444500,selina@gmail.com,Selina,16/7/1947,F,Campinas,SP,3,1,1,0,10,0,22.5219,38.858
+
+327,48175633948,cecile@yahoo.com,Cecile,10/12/1962,F,Niteroi,RJ,1,1,1,1,9,3,22.9004,34.0818
+
+328,42952259241,winona@outlook.com,Winona,16/5/1935,F,Niteroi,RJ,5,1,1,1,4,7,22.1735,49.1887
+
+329,40812333310,clara@gmail.com,Clara,2/12/1974,F,Niteroi,RJ,5,0,1,1,3,3,39.4722,58.1382
+
+330,45504492934,antonia@yahoo.com,Antonia,11/1/1951,F,Betim,MG,2,1,0,1,4,10,30.7447,57.2748
+
+331,42379640324,emmer@gmail.com,Emmer,19/1/1992,F,Lages,SC,4,0,1,1,7,14,12.9871,40.8922
+
+332,41781024760,regina@gmail.com,Regina,13/7/1937,F,Chapeco,SC,4,0,1,1,4,15,27.7652,41.9795
+
+333,49975411026,elmira@gmail.com,Elmira,10/6/1946,F,Florianopolis,SC,0,1,1,0,5,5,33.0761,47.4741
+
+334,40015537119,edna@gmail.com,Edna,29/5/1982,F,Belo Horizonte,MG,3,0,0,0,2,3,20.1905,32.3733
+
+335,40123771265,lavada@aol.com,Lavada,27/10/1989,F,Guarulhos,SP,3,1,0,0,6,0,28.7301,58.7038
+
+336,48732570438,aletha@yahoo.com,Aletha,16/11/1974,F,Campos dos Goytacazes,RJ,3,0,1,1,3,14,19.682,37.9032
+
+337,44796930828,marie@yahoo.com,Marie,27/10/1990,F,Chapeco,SC,3,0,1,1,6,4,36.9797,54.5046
+
+338,46280792623,lovie@outlook.com,Lovie,20/1/1951,F,Sao Jose,SC,5,0,1,1,8,13,15.4899,54.3743
+
+339,43561982467,lonie@outlook.com,Lonie,13/2/1960,F,Volta Redonda,RJ,5,0,1,1,3,6,10.4961,51.1187
+
+340,47054717967,muriel@aol.com,Muriel,21/7/1986,F,Betim,MG,0,1,0,0,8,0,33.5173,57.7176
+
+341,49043389240,juliette@outlook.com,Juliette,29/8/1961,F,Uberaba,MG,1,1,1,1,1,10,11.9216,31.7
+
+342,46285789616,dorothy@gmail.com,Dorothy,10/9/1986,F,Florianopolis,SC,5,0,1,1,3,10,17.0171,47.9361
+
+343,46035421649,concetta@outlook.com,Concetta,16/5/1991,F,Vila Velha,ES,1,0,0,0,5,11,18.2854,41.1722
+
+344,48493880786,janette@aol.com,Janette,27/6/1989,F,Maua,SP,3,1,0,0,0,0,32.4497,44.297
+
+345,49905544987,jewel@outlook.com,Jewel,10/11/1994,F,Ribeirao das Neves,MG,5,0,0,1,3,13,25.607,55.501
+
+346,48268357439,rosamond@yahoo.com,Rosamond,22/6/1952,F,Belo Horizonte,MG,0,1,0,1,6,14,21.0663,35.9909
+
+347,47104560512,arietta@yahoo.com,Arietta,11/12/1970,F,Volta Redonda,RJ,2,0,1,1,2,9,23.5906,54.6709
+
+348,47027667941,elsa@gmail.com,Elsa,23/5/1968,F,RIbeirao Preto,SP,1,1,1,0,5,12,24.5714,52.9313
+
+349,42809402884,sammie@yahoo.com,Sammie,3/2/1979,F,Palhoca,SC,3,1,0,0,5,0,19.4243,32.1818
+
+350,41574229630,marcella@yahoo.com,Marcella,30/11/1946,F,Governador Valadares,MG,0,0,0,0,8,10,12.0977,36.2911
+
+351,44044766213,adella@outlook.com,Adella,25/5/1934,F,Osasco,SP,3,1,0,0,3,4,33.5598,47.653
+
+352,47397735660,missouri@gmail.com,Missouri,24/5/1974,F,Sao Paulo,SP,1,1,0,0,2,15,20.9768,36.0313
+
+353,45730859686,vada@yahoo.com,Vada,6/4/1931,F,Serra,ES,2,1,1,0,0,14,11.2832,37.4039
+
+354,40940213446,sonia@yahoo.com,Sonia,27/12/1950,F,Cachoeiro de Itapemirim,ES,0,1,1,1,3,1,19.1223,37.5411
+
+355,43431564105,celia@aol.com,Celia,23/9/1956,F,Sao Goncalo,RJ,2,1,1,0,2,13,16.5444,46.9825
+
+356,43433963108,easter@outlook.com,Easter,4/12/1967,F,Campos dos Goytacazes,RJ,2,1,1,1,4,7,27.0062,42.7039
+
+357,45412263732,antionette@yahoo.com,Antionette,7/6/1948,F,Guarulhos,SP,1,0,0,1,10,7,39.4388,41.6717
+
+358,46437383843,nona@gmail.com,Nona,14/3/1966,F,Osasco,SP,0,1,1,1,1,15,11.2998,53.3115
+
+359,41880646587,kathryne@yahoo.com,Kathryne,2/6/1949,F,Aracruz,ES,3,0,1,0,0,1,33.5054,46.7913
+
+360,41345900231,eloise@aol.com,Eloise,3/8/1977,F,Campos dos Goytacazes,RJ,3,1,0,0,6,8,19.0353,53.092
+
+361,43334742319,ray@aol.com,Ray,28/2/1930,F,Campos dos Goytacazes,RJ,5,1,0,1,5,4,37.3752,55.9098
+
+362,43597910984,izetta@outlook.com,Izetta,22/10/1937,F,Niteroi,RJ,4,0,0,1,3,1,21.3396,56.4575
+
+363,46820568269,bernadette@outlook.com,Bernadette,15/5/1997,F,Florianopolis,SC,0,0,0,1,6,12,29.331,54.475
+
+364,48487594118,veronica@yahoo.com,Veronica,6/4/1973,F,Guarapari,ES,5,0,1,0,5,9,28.5453,36.1738
+
+365,45644692428,myrtis@gmail.com,Myrtis,9/7/1980,F,Santo Andre,SP,0,1,1,0,8,14,33.0681,43.7847
+
+366,42113775238,ivory@gmail.com,Ivory,26/1/1967,F,Campos dos Goytacazes,RJ,0,0,1,0,4,7,13.3751,42.1525
+
+367,45572832882,johanna@outlook.com,Johanna,23/1/1976,F,Santo Andre,SP,4,1,0,0,3,2,33.4245,53.7184
+
+368,49976654356,alverta@gmail.com,Alverta,20/8/1953,F,RIbeirao Preto,SP,4,0,0,0,6,0,21.2532,36.2269
+
+369,40416189567,odell@aol.com,Odell,29/9/1933,F,Vitoria,ES,2,0,1,1,5,7,19.4299,35.5188
+
+370,44510442376,katy@outlook.com,Katy,25/1/1938,F,Linhares,ES,1,0,1,1,7,15,13.3378,42.8422
+
+371,47261488263,nola@outlook.com,Nola,28/12/1977,F,Guarulhos,SP,5,0,1,1,8,2,36.7942,40.5876
+
+372,40057494355,zoe@outlook.com,Zoe,19/12/1968,F,Osasco,SP,3,0,0,0,10,13,26.3319,55.4274
+
+373,43905877422,peggy@yahoo.com,Peggy,11/10/1986,F,Cachoeiro de Itapemirim,ES,5,0,1,0,7,2,32.327,50.4031
+
+374,45737797391,winnifred@outlook.com,Winnifred,14/9/1960,F,Duque de Caxias,RJ,3,0,1,1,0,7,31.4941,54.3131
+
+375,49773710481,bernita@outlook.com,Bernita,21/3/1984,F,Guarulhos,SP,5,1,0,1,1,6,12.8665,59.3406
+
+376,43488069667,corine@outlook.com,Corine,27/4/1999,F,Sao Jose dos Campos,SP,0,0,0,1,0,14,19.4393,54.013
+
+377,41947334049,mandy@yahoo.com,Mandy,12/5/1998,F,Chapeco,SC,5,1,1,0,6,5,22.399,41.7448
+
+378,44970659207,flora@yahoo.com,Flora,30/6/1985,F,Governador Valadares,MG,2,0,0,0,8,14,35.426,37.0161
+
+379,47795920532,alva@gmail.com,Alva,3/1/1982,F,Belford Roxo,RJ,3,0,0,0,8,6,29.9196,41.834
+
+380,47252133225,lilia@aol.com,Lilia,23/5/1986,F,RIbeirao Preto,SP,5,0,0,1,7,11,16.39,48.7327
+
+381,42247776353,robert@yahoo.com,Robert,1/10/1966,F,Blumenau,SC,2,0,0,0,3,15,36.4194,57.1507
+
+382,45750388415,ardella@aol.com,Ardella,4/3/1936,F,Guarulhos,SP,1,0,0,0,3,15,38.8831,46.37
+
+383,42412481877,lola@aol.com,Lola,11/11/1981,F,Jaragua do Sul,SC,2,1,0,0,9,7,14.3755,31.972
+
+384,49102056851,vesta@yahoo.com,Vesta,24/9/1942,F,Campinas,SP,3,0,0,0,5,3,26.392,57.1964
+
+385,48374511189,ossie@aol.com,Ossie,14/9/1996,F,Sao Bernardo do Campo,SP,2,1,1,1,0,3,31.303,50.526
+
+386,42763477728,consuelo@aol.com,Consuelo,24/3/1961,F,Sao Joao de Meriti,RJ,4,1,0,0,10,8,35.5267,31.5065
+
+387,40139198886,deborah@outlook.com,Deborah,1/4/1992,F,Maua,SP,5,1,1,1,3,15,27.8921,34.5891
+
+388,43315736629,rosie@outlook.com,Rosie,28/2/1941,F,Rio de Janeiro,RJ,2,0,1,0,8,6,34.394,37.5351
+
+389,44374952964,enid@yahoo.com,Enid,15/5/1961,F,Osasco,SP,3,0,0,1,7,10,29.185,31.6917
+
+390,45384660199,bettylou@gmail.com,Bettylou,24/12/1954,F,Rio de Janeiro,RJ,4,0,0,1,1,2,24.2293,35.324
+
+391,41388249628,earnestine@aol.com,Earnestine,11/2/1968,F,Cariacica,ES,3,1,0,0,8,7,15.3197,39.7942
+
+392,48504094612,linnie@gmail.com,Linnie,10/3/1962,F,Sorocaba,SP,3,1,1,0,3,13,12.6292,35.5412
+
+393,42617153511,noreen@outlook.com,Noreen,17/10/1961,F,Sao Mateus,ES,5,0,0,1,9,7,22.1783,40.717
+
+394,49094318292,carl@yahoo.com,Carl,21/6/1952,F,Linhares,ES,5,0,0,0,7,10,11.7657,37.1567
+
+395,45115978090,eugenia@aol.com,Eugenia,11/6/1997,F,Petropolis,RJ,0,1,1,1,6,5,35.8472,47.8803
+
+396,47493501973,hortencia@aol.com,Hortencia,21/4/1947,F,Florianopolis,SC,0,1,0,0,9,3,34.2247,54.4444
+
+397,46391079677,joy@outlook.com,Joy,19/9/1935,F,Chapeco,SC,2,1,0,0,0,11,12.5491,33.8339
+
+398,41553694487,ladonna@outlook.com,Ladonna,4/10/1977,F,Sao Bernardo do Campo,SP,2,1,1,1,3,11,29.4717,48.8179
+
+399,42611164051,georgine@gmail.com,Georgine,22/4/1960,F,Sao Joao de Meriti,RJ,2,1,0,0,3,2,28.8362,44.6871
+
+400,49217133102,faith@gmail.com,Faith,28/8/1937,F,Sao Mateus,ES,4,1,0,1,10,13,35.8417,38.5592
+
+401,40924986039,katheryn@yahoo.com,Katheryn,13/9/1970,F,Sao Jose dos Campos,SP,1,0,1,0,1,10,36.9666,39.2345
+
+402,44733493479,jaunita@gmail.com,Jaunita,12/12/1948,F,Nova Iguacu,RJ,3,1,0,1,9,7,39.0832,56.1697
+
+403,45547285044,clarissa@aol.com,Clarissa,13/6/1950,F,Duque de Caxias,RJ,1,0,0,1,9,14,35.6515,35.6073
+
+404,44773418297,lenore@aol.com,Lenore,24/11/1942,F,Juiz de Fora,MG,3,1,0,1,8,10,20.1495,57.535
+
+405,46528491036,leone@aol.com,Leone,3/4/1939,F,Cachoeiro de Itapemirim,ES,5,1,0,0,3,15,24.9668,52.8449
+
+406,40943373489,alma@gmail.com,Alma,22/2/1978,F,Serra,ES,2,0,1,1,6,1,29.4689,51.4872
+
+407,44354498862,caryl@outlook.com,Caryl,16/4/1944,F,Sorocaba,SP,2,1,1,1,9,2,21.7886,37.1445
+
+408,44430608908,neoma@aol.com,Neoma,4/8/1954,F,Blumenau,SC,2,0,0,1,10,5,25.4471,34.1123
+
+409,41510622556,gretchen@gmail.com,Gretchen,8/10/1979,F,Governador Valadares,MG,3,1,1,1,5,3,29.1164,38.8133
+
+410,46323705506,barbra@outlook.com,Barbra,12/12/1943,F,Governador Valadares,MG,2,0,1,1,4,15,36.059,48.9231
+
+411,46857354563,lillie@gmail.com,Lillie,2/9/1943,F,Criciuma,SC,4,1,1,0,1,7,22.6696,38.4752
+
+412,42252052822,reta@aol.com,Reta,28/6/1936,F,Chapeco,SC,1,0,1,0,2,5,19.9912,40.2337
+
+413,41152850488,rubie@gmail.com,Rubie,11/5/1992,F,Linhares,ES,2,1,1,1,8,14,29.7794,55.0305
+
+414,45024156426,kathy@aol.com,Kathy,25/7/1989,F,Belo Horizonte,MG,0,0,0,0,0,1,21.7466,57.6826
+
+415,40322371737,cordelia@gmail.com,Cordelia,24/5/1938,F,Campos dos Goytacazes,RJ,3,0,1,0,8,5,28.5958,59.3614
+
+416,43612381582,priscilla@outlook.com,Priscilla,25/3/1956,F,Lages,SC,5,1,0,0,9,7,14.1324,42.0178
+
+417,43485192623,rozella@aol.com,Rozella,18/8/1944,F,Sao Jose dos Campos,SP,1,0,1,0,8,9,35.8181,44.3087
+
+418,40868732048,ina@aol.com,Ina,26/12/1987,F,Guarapari,ES,4,0,1,1,3,11,22.5119,43.4045
+
+419,48667706256,madge@aol.com,Madge,28/3/1988,F,Sao Jose dos Campos,SP,3,0,0,1,2,15,34.5413,42.0156
+
+420,40386075463,roxie@yahoo.com,Roxie,10/11/1950,F,Cachoeiro de Itapemirim,ES,1,0,1,1,5,5,14.4386,34.5181
+
+421,45103374747,mabel@outlook.com,Mabel,29/11/1957,F,Montes Claros,MG,4,0,0,0,2,10,16.8665,42.9854
+
+422,44832894008,delphine@aol.com,Delphine,11/6/1964,F,Sao Joao de Meriti,RJ,3,0,1,0,0,8,35.6741,37.7585
+
+423,47029080755,jeanette@outlook.com,Jeanette,10/7/1986,F,Itajai,SC,5,1,0,0,4,12,35.9485,53.4893
+
+424,49418594807,cherry@aol.com,Cherry,4/11/1943,F,Sao Mateus,ES,0,0,0,0,0,5,17.5575,44.4685
+
+425,46637137910,merrily@yahoo.com,Merrily,27/6/1969,F,Betim,MG,4,1,1,0,10,10,18.262,56.3335
+
+426,41250778018,alicia@gmail.com,Alicia,11/2/1979,F,Montes Claros,MG,0,1,0,1,5,12,20.5034,41.263
+
+427,46578288970,flossie@outlook.com,Flossie,24/1/1981,F,Sao Mateus,ES,2,0,0,1,1,9,36.8895,34.9061
+
+428,41559801820,marlene@yahoo.com,Marlene,24/8/1979,F,Montes Claros,MG,4,1,1,1,7,9,12.5167,55.6004
+
+429,46329557282,loraine@gmail.com,Loraine,23/1/1969,F,Palhoca,SC,5,0,0,1,2,14,27.6901,41.3577
+
+430,42487349164,marleen@gmail.com,Marleen,24/8/1971,F,Ribeirao das Neves,MG,3,1,1,0,5,7,30.0465,52.4186
+
+431,45718016513,sondra@aol.com,Sondra,15/7/1983,F,Linhares,ES,0,0,0,0,8,6,31.8283,52.7026
+
+432,41229140306,richard@yahoo.com,Richard,15/6/1939,F,Uberlandia,MG,2,0,1,1,8,11,30.4702,49.4783
+
+433,47399614584,juanita@yahoo.com,Juanita,15/1/1939,F,Campos dos Goytacazes,RJ,0,0,0,0,7,15,10.2689,30.4657
+
+434,41445845829,shelby@gmail.com,Shelby,1/9/1932,F,Campos dos Goytacazes,RJ,0,0,0,0,2,6,39.8455,56.0199
+
+435,48244744475,pansy@gmail.com,Pansy,4/8/1984,F,Sao Paulo,SP,2,1,1,0,7,10,25.3406,47.6208
+
+436,40600150324,josefina@yahoo.com,Josefina,7/12/1974,F,Osasco,SP,5,1,0,0,8,12,29.8267,56.8221
+
+437,45793908768,geraldine@aol.com,Geraldine,9/4/1932,F,Nova Iguacu,RJ,2,1,1,1,3,1,36.2634,52.5805
+
+438,45927503225,elena@yahoo.com,Elena,28/7/1957,F,Jaragua do Sul,SC,2,0,1,0,1,1,20.3861,47.1902
+
+439,46750865455,gearldine@gmail.com,Gearldine,19/9/1993,F,Sao Mateus,ES,5,0,1,0,7,8,37.9624,49.5662
+
+440,46341656712,cassandra@gmail.com,Cassandra,18/10/1960,F,Sao Mateus,ES,1,0,1,0,9,7,32.4845,42.415
+
+441,44810102277,daryl@outlook.com,Daryl,12/12/1979,F,Vila Velha,ES,3,0,0,0,2,3,11.9829,43.6853
+
+442,46739402666,glenda@outlook.com,Glenda,26/11/1973,F,Niteroi,RJ,5,0,1,0,3,2,28.9887,46.5561
+
+443,48847478930,gayla@yahoo.com,Gayla,12/1/1950,F,RIbeirao Preto,SP,2,1,1,1,0,13,20.1317,53.9812
+
+444,40378958628,georgiana@gmail.com,Georgiana,23/8/1972,F,Montes Claros,MG,2,1,0,1,8,8,20.1888,57.0011
+
+445,49416668090,sherrie@aol.com,Sherrie,9/10/1954,F,Sao Bernardo do Campo,SP,4,1,0,0,3,7,19.4072,54.3433
+
+446,40933218384,karon@aol.com,Karon,8/12/1971,F,RIbeirao Preto,SP,0,0,0,0,3,3,25.7361,51.6993
+
+447,46199215517,debbie@yahoo.com,Debbie,1/3/1963,F,Serra,ES,3,1,1,1,8,8,12.2835,54.1274
+
+448,49777867844,millicent@gmail.com,Millicent,2/5/1936,F,Uberlandia,MG,3,0,0,0,2,9,20.3819,33.4112
+
+449,46279821155,nadine@aol.com,Nadine,25/2/1960,F,Aracruz,ES,5,0,0,1,8,0,39.0612,38.7155
+
+450,48066488526,renae@gmail.com,Renae,22/10/1972,F,Volta Redonda,RJ,4,0,1,0,3,2,38.1458,37.5321
+
+451,44617148134,tina@yahoo.com,Tina,29/3/1974,F,Contagem,MG,2,0,1,0,8,6,22.1779,47.5453
+
+452,46469043636,violet@yahoo.com,Violet,21/9/1955,F,Sao Joao de Meriti,RJ,2,0,1,1,2,11,27.5793,54.5759
+
+453,40697015724,kristine@outlook.com,Kristine,14/3/1944,F,Petropolis,RJ,4,1,1,0,9,6,20.2832,45.5134
+
+454,45641305955,minerva@outlook.com,Minerva,22/6/1986,F,Belford Roxo,RJ,4,1,0,1,4,8,30.4432,55.313
+
+455,40950337854,anita@aol.com,Anita,2/4/1979,F,Sao Goncalo,RJ,1,0,1,0,1,3,10.8953,53.2302
+
+456,49898720793,kristen@outlook.com,Kristen,29/8/1935,F,Blumenau,SC,4,0,1,1,10,8,14.4717,38.6055
+
+457,40322160767,cara@yahoo.com,Cara,30/9/1990,F,Sao Joao de Meriti,RJ,2,1,1,1,2,10,30.2846,44.7338
+
+458,43375052394,cathleen@gmail.com,Cathleen,28/2/1941,F,Duque de Caxias,RJ,5,0,0,0,8,13,29.557,34.9542
+
+459,43069424472,janell@aol.com,Janell,16/2/1949,F,Palhoca,SC,4,1,0,0,1,14,35.8449,31.2194
+
+460,47281588909,amy@gmail.com,Amy,22/5/1986,F,Juiz de Fora,MG,2,1,1,1,3,10,23.4091,56.6282
+
+461,42322965886,judi@yahoo.com,Judi,4/12/1940,F,Volta Redonda,RJ,3,1,0,0,9,1,22.1548,56.827
+
+462,41215493327,donita@outlook.com,Donita,20/2/1976,F,Jaragua do Sul,SC,4,0,1,1,10,1,13.9141,32.2668
+
+463,42919147529,terrie@outlook.com,Terrie,9/7/1945,F,Montes Claros,MG,1,1,0,1,8,1,31.7456,40.3705
+
+464,46185495712,cathryn@aol.com,Cathryn,13/6/1999,F,Colatina,ES,4,0,1,1,4,10,17.4807,45.0467
+
+465,49608642869,jill@aol.com,Jill,11/4/1992,F,Sao Jose,SC,2,0,0,0,6,10,17.5497,51.142
+
+466,41079069221,stacie@aol.com,Stacie,18/7/1930,F,Sao Bernardo do Campo,SP,3,1,0,0,5,8,12.3193,58.4888
+
+467,49575434710,doretha@yahoo.com,Doretha,4/11/1998,F,Lages,SC,1,1,1,0,10,5,26.1158,57.0042
+
+468,41004186580,emily@yahoo.com,Emily,17/9/1973,F,Sao Joao de Meriti,RJ,1,1,1,0,1,14,24.3721,42.1653
+
+469,44650597434,ivette@outlook.com,Ivette,2/10/1982,F,Rio de Janeiro,RJ,5,1,0,0,2,0,18.2647,41.0137
+
+470,45861136756,suzanne@gmail.com,Suzanne,28/9/1991,F,Belo Horizonte,MG,2,0,0,1,10,3,28.1524,44.5279
+
+471,41430070782,luann@outlook.com,Luann,22/7/1935,F,Sao Jose dos Campos,SP,4,1,1,1,2,9,10.9288,36.9486
+
+472,45877240225,beatriz@aol.com,Beatriz,13/12/1991,F,Betim,MG,2,1,1,1,7,13,29.3652,37.6821
+
+473,49363322761,molly@gmail.com,Molly,17/7/1963,F,Guarapari,ES,1,1,0,0,1,8,14.5917,55.6897
+
+474,45774254331,jeanie@aol.com,Jeanie,13/6/1996,F,Montes Claros,MG,5,0,0,1,3,6,12.385,48.9714
+
+475,48371086846,polly@yahoo.com,Polly,20/7/1971,F,Belford Roxo,RJ,2,0,1,0,7,7,34.3501,32.3579
+
+476,45379878728,mamie@gmail.com,Mamie,16/5/1969,F,Campinas,SP,5,0,1,1,9,14,27.3044,52.1019
+
+477,44749099218,vivian@outlook.com,Vivian,11/7/1995,F,Governador Valadares,MG,4,1,0,0,5,8,25.8664,57.3941
+
+478,49287913061,graciela@aol.com,Graciela,11/12/1943,F,Volta Redonda,RJ,0,1,0,0,5,0,24.5187,32.3198
+
+479,40217102251,kim@aol.com,Kim,17/1/1974,F,Jaragua do Sul,SC,4,0,1,1,7,11,35.5291,34.1438
+
+480,42789840373,olga@yahoo.com,Olga,22/10/1935,F,Maua,SP,0,0,1,0,3,4,20.684,49.9065
+
+481,42745256997,lupe@outlook.com,Lupe,23/3/1936,F,Guarulhos,SP,4,1,1,0,5,7,17.7849,34.8999
+
+482,43912115250,teri@gmail.com,Teri,7/12/1940,F,Vila Velha,ES,0,0,0,0,10,8,33.293,50.4744
+
+483,45957052592,faye@aol.com,Faye,2/2/1982,F,Vitoria,ES,5,0,0,1,9,12,11.6026,32.1236
+
+484,49217339453,guadalupe@aol.com,Guadalupe,26/10/1975,F,Petropolis,RJ,0,1,0,1,7,14,19.1956,56.4437
+
+485,46508861088,myrna@outlook.com,Myrna,15/10/1944,F,Jaragua do Sul,SC,0,1,0,0,4,11,33.581,49.946
+
+486,49915237296,sonja@aol.com,Sonja,10/3/1994,F,Maua,SP,2,0,1,1,5,7,13.4447,54.6765
+
+487,41388257798,autumn@yahoo.com,Autumn,24/5/1972,F,Contagem,MG,4,0,1,0,5,0,25.1824,46.6848
+
+488,48084739586,monica@yahoo.com,Monica,27/7/1940,F,Sao Goncalo,RJ,0,1,0,0,4,3,16.0553,43.807
+
+489,45334584258,francine@gmail.com,Francine,25/11/1954,F,Uberaba,MG,4,0,0,0,9,7,28.23,44.471
+
+490,41268816547,aida@gmail.com,Aida,27/2/1990,F,Linhares,ES,2,0,0,1,3,0,19.5506,57.9769
+
+491,41479780370,joann@aol.com,Joann,14/12/1957,F,Ribeirao das Neves,MG,4,0,0,0,9,10,32.5394,32.3824
+
+492,47778095836,lauri@gmail.com,Lauri,30/10/1933,F,Belo Horizonte,MG,1,0,1,1,3,11,36.4887,51.653
+
+493,45101488077,carrie@gmail.com,Carrie,10/2/1947,F,Itajai,SC,5,0,0,1,8,15,17.534,51.6149
+
+494,42446192724,misti@gmail.com,Misti,9/10/1994,F,Colatina,ES,1,0,1,1,6,5,20.3072,57.3428
+
+495,44035691229,nellie@gmail.com,Nellie,20/9/1998,F,Blumenau,SC,4,1,0,1,5,6,24.2306,49.4379
+
+496,49283801403,shana@outlook.com,Shana,8/4/1971,F,Sao Paulo,SP,0,1,1,1,8,6,32.4508,33.7793
+
+497,46556114199,abby@gmail.com,Abby,27/11/1983,F,Duque de Caxias,RJ,0,1,0,0,8,9,30.6195,38.9661
+
+498,49876680610,tracy@aol.com,Tracy,24/9/1971,F,Niteroi,RJ,2,0,0,1,10,12,37.0482,40.1985
+
+499,44992137464,annemarie@outlook.com,Annemarie,10/8/1980,F,Blumenau,SC,1,1,0,0,10,14,36.4627,38.2177
+
